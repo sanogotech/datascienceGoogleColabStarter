@@ -10,6 +10,12 @@
 
 # Load the Pandas libraries with alias 'pd' 
 import pandas as pd 
+# Find out your current working directory
+import os
+print(os.getcwd())
+# Out: /Users/shane/Documents/blog
+# Display all of the files found in your current working directory
+print(os.listdir(os.getcwd())
 
 # Read data from file 'filename.csv' 
 # (in the same directory that your python process is based)
