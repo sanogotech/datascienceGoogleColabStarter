@@ -7,7 +7,7 @@
 
 ##  Code Sample
 
-```
+```python
 
 # Load the Pandas libraries with alias 'pd' 
 import pandas as pd 
